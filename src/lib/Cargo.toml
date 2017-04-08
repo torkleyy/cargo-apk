@@ -1,0 +1,8 @@
+[package]
+name = "cargo-apk-lib"
+version = "0.1.0"
+authors = ["Thomas Schaller (torkleyy)"]
+description = "Project manager for Rust projects targeting Android, Backend"
+keywords = [""]
+
+[dependencies]

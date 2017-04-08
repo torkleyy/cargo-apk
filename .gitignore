@@ -1,0 +1,10 @@
+# Build files
+/src/lib/Cargo.lock
+target/
+
+# Backup files
+*.bk
+
+# Editor / IDE files
+*.iml
+.idea
